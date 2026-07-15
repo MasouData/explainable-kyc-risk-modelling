@@ -231,10 +231,6 @@ Entity Name
 
 The implementation is divided into eight ordered Databricks notebooks:
 
-<p align="center">
-  <img src="images/aae68279-beaa-47c3-bb83-50beb2f6b6c4.png" alt="Databricks notebook sequence" width="430">
-</p>
-
 ```text
 01_load_files
 02_customer_mapping
